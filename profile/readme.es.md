@@ -1,25 +1,24 @@
-# Inside Security - Software Factory
-
+# Inside Security - Fábrica de aplicaciones
 
 > [!TIP]
-> This documentation is available in multiple languages. Please select the language in which you want to read this documentation.
+> Esta documentación está disponible en varios idiomas. Por favor, selecciona el idioma en el que deseas leer esta documentación.
 
-[![Spanish](https://badgen.net/badge/ES/Espa%C3%B1ol/green)](profile/readme.es.md)
-[![English](https://badgen.net/badge/EN/English/pink)](profile/readme.md)
+[![Español](https://badgen.net/badge/ES/Espa%C3%B1ol/green)](profile/readme.es.md)
+[![Inglés](https://badgen.net/badge/EN/Inglés/pink)](profile/readme.md)
 
-## About Inside Security Factory
+## Acerca de Inside Security Factory
 
-Inside Security Factory is a division of Inside Security that focuses on developing software solutions focusing on security and compliance.
+Inside Security Factory es una división de Inside Security que se enfoca en el desarrollo de soluciones de software centradas en la seguridad y el cumplimiento.
 
-## Projects
+## Proyectos
 
-Below is a list of projects developed by Inside Security Factory:
+A continuación se muestra una lista de proyectos desarrollador por Inside Security Factory:
 
-- [insidesecurity.cl](https://github.com/insidesecurity-factory/insidesecurity.cl) - Public website for Inside Security.
+- [insidesecurity.cl](https://github.com/insidesecurity-factory/insidesecurity.cl) - Sitio web público de Inside Security.
 
-## Technologies
+## Tecnologías
 
-We have completed projects using multiple technologies, including:
+Hemos completado proyectos con múltiples tecnologías, incluyendo las siguientes:
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -28,7 +27,7 @@ We have completed projects using multiple technologies, including:
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://yaml.org/)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
@@ -38,7 +37,7 @@ We have completed projects using multiple technologies, including:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-## Contact
+## Contacto
 
-- **Email**: [info@insidesecurity.cl](mailto:info@insidesecurity.cl)
-- **Website**: https://insidesecurity.cl/
+- **Correo electrónico**: [info@insidesecurity.cl](mailto:info@insidesecurity.cl)
+- **Sitio web**: https://insidesecurity.cl/
